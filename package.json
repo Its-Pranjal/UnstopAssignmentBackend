@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon",
-    "build": "npm install"
+    "build": "npm install",
+    "start": "node ./index.js"
 
   },
   "keywords": [],
